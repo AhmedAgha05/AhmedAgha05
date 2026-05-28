@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**AhmedAgha05/AhmedAgha05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmed Agha
 
-Here are some ideas to get you started:
+🚀 Who I Am
+I'm a Business Data Analytics student at the University of Connecticut with a strong interest in turning data into meaningful business insights. I enjoy working on real-world datasets, finding patterns, and building dashboards that help drive decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 What I'm Currently Working On
+- Building end-to-end data analytics projects using Excel, SQL, and Power BI  
+- Analyzing customer behavior, product performance, and sales trends  
+- Developing interactive dashboards that highlight KPIs and business insights  
+- Strengthening my Python skills for data analysis and automation  
+
+🛠️ Tools & Technologies
+- **Languages:** SQL(Microsoft SQL), Python  
+- **Data Tools:** Excel, Power BI  
+- **Other:** Data Cleaning, Data Visualization, Business Analytics  
+
+📫 How to Reach Me
+- LinkedIn: https://www.linkedin.com/in/ahmed-agha2005/
+- Email: ahmadagha1649@gmail.com 
+- GitHub: AhmedAgha05  
+
+---
+
+⭐ Always learning, always building.
